@@ -1,0 +1,24 @@
+{
+  "name": "URL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1113.0",
+    "dayjs": "^1.11.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.15",
+    "shortid": "^2.2.16",
+    "uuid": "^8.3.2",
+    "uuidv1": "^1.6.14"
+  }
+}
